@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.3.1](https://www.github.com/googleapis/java-memcache/compare/v0.3.0...v0.3.1) (2021-02-16)
+
+
+### Documentation
+
+* generate sample code in the Java microgenerator ([#300](https://www.github.com/googleapis/java-memcache/issues/300)) ([182927c](https://www.github.com/googleapis/java-memcache/commit/182927c37930447cf9415b9142b9a028ee08d0dd))
+
 ## [0.3.0](https://www.github.com/googleapis/java-memcache/compare/v0.2.11...v0.3.0) (2021-01-21)
 
 
